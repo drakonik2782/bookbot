@@ -1,2 +1,3 @@
 # bookbot
-This Python program returns the number of characters present in a given book. A boot.dev project.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
